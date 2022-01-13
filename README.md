@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   <img src="Resources/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
   <img src="Resources/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
   <img src="Resources/dev/tools/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px">
-  <img src="Resources/dev/tools/docker.svg" alt="Docker" style="vertical-align:top; margin:4px">
+<!--   <img src="Resources/dev/tools/docker.svg" alt="Docker" style="vertical-align:top; margin:4px"> -->
 </p>
 
 <p align="right">
