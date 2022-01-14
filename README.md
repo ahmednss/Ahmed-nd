@@ -22,13 +22,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Things I use
 <p align="left">
-  <img src="Resources/dev/languages/csharp_dotnet.svg" alt="C# / .NET" style="vertical-align:top; margin:4px">
+  <img src="Resources/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:4px; width:35px; height:35px">
 <!--   <img src="Resources/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px"> -->
   <img src="Resources/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="Resources/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px">
   <img src="Resources/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
   <img src="Resources/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
-  <img src="Resources/dev/tools/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px">
+<!--   <img src="Resources/dev/tools/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px"> -->
 <!--   <img src="Resources/dev/tools/docker.svg" alt="Docker" style="vertical-align:top; margin:4px"> -->
 </p>
 
