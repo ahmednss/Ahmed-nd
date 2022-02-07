@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Things I use
 <p align="left">
-  <img src="Resources/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:4px; width:35px; height:35px">
+  <img src="Resources/dev/languages/cpp.png" alt="cpp" style="vertical-align:top; margin:4px; height:32px">
 <!--   <img src="Resources/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px"> -->
   <img src="Resources/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="Resources/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px">
